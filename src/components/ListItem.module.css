@@ -1,0 +1,10 @@
+.item {
+  padding: .25rem;
+  background: none;
+  border: none;
+  appearance: none;
+
+  &.done {
+    text-decoration: line-through;
+  }
+}
